@@ -5,7 +5,7 @@ This is workout tracker built using nodeJS, mongoDB, and express. The front-end 
 
 The app allows users to add new resistance or cardio exercises, and track reps/sets/weight/duration, and plots the information to the stats page to allow the user to view progress over time.
 
-Visit the live demo at - 
+Visit the live demo at - https://polar-badlands-11589.herokuapp.com/
 
 #Demo
 
