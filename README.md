@@ -1,8 +1,8 @@
 # Workout-Tracker
   Repo by RyanJMS
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/RyanJMS/employee-directory)
-  Live Site via Github Pages -> https://ryanjms.github.io/employee-directory/
+  ![GitHub repo size](https://img.shields.io/github/repo-size/RyanJMS/workout-tracker)
+  Live Site via Github Pages -> https://polar-badlands-11589.herokuapp.com/
   
   
 # Demonstration
@@ -12,9 +12,6 @@
 ![](public/assets/img/demo1.png)
 
 ![](public/assets/img/demo2.png)
-
-Visit the live demo at - https://polar-badlands-11589.herokuapp.com/
-
 
 # Table of Contents
 
