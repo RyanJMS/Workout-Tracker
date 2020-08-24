@@ -17,12 +17,16 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("./public"));
 
+//initiate mongoose connection to our MONGODB_URI or our localhost/workout collection
+
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useFindAndModify: false,
   useCreateIndex: true,
 });
+
+//Define api routes
 
 app.use(apiRoutes);
 app.use(htmlRoutes);
