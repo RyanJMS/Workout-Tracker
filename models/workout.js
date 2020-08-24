@@ -1,6 +1,10 @@
+//Define Dependencies
+
 const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
+
+//Create new Schema
 
 const workoutSchema = new Schema(
   {
