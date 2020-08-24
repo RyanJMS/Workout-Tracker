@@ -30,6 +30,8 @@ The app allows users to add new resistance or cardio exercises, and track reps/s
 
 ## Installation
 
+Live Site via Github Pages -> https://polar-badlands-11589.herokuapp.com/
+
 Clone the repository to your local drive, and run npm install. Then npm start, and you're good to go!
 
 ## Usage
