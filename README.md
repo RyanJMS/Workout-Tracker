@@ -20,7 +20,6 @@
 3. [Usage](#Usage)
 4. [License](#License)
 5. [Contributing](#Contributing)
-6. [Questions](#Questions)
 
 ## Description
 
