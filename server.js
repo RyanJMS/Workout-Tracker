@@ -1,8 +1,12 @@
+// Define dependencies
+
 const express = require("express");
 const morgan = require("morgan");
 const mongoose = require("mongoose");
 const apiRoutes = require("./routes/apiRoutes.js");
 const htmlRoutes = require("./routes/htmlRoutes.js");
+
+// Set PORT to environment variable PORT or localhost://3000 if there's nothing else
 
 const PORT = process.env.PORT || 3000;
 
