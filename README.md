@@ -20,7 +20,6 @@
 3. [Usage](#Usage)
 4. [License](#License)
 5. [Contributing](#Contributing)
-6. [Questions](#Questions)
 
 ## Description
 
@@ -30,6 +29,8 @@ This is workout tracker built using nodeJS, mongoDB, and express. The front-end 
 The app allows users to add new resistance or cardio exercises, and track reps/sets/weight/duration, and plots the information to the stats page to allow the user to view progress over time.
 
 ## Installation
+
+Live Site via Github Pages -> https://polar-badlands-11589.herokuapp.com/
 
 Clone the repository to your local drive, and run npm install. Then npm start, and you're good to go!
 
